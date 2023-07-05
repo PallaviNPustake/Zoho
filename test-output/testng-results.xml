@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching zoho application]]>
+    </line>
+    <line>
+      <![CDATA[Waiting to load complete page1000]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Home page Sign In ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting to load complete page1500]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-0]]>
+    </line>
+    <line>
+      <![CDATA[Entering email id]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[Wait time -2000]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-1]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on sign in]]>
+    </line>
+    <line>
+      <![CDATA[Wait time -2000]]>
+    </line>
+    <line>
+      <![CDATA[Scrolling to that element]]>
+    </line>
+    <line>
+      <![CDATA[Wait time -1000]]>
+    </line>
+    <line>
+      <![CDATA[Waiting to load complete page2000]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on user icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on my account]]>
+    </line>
+    <line>
+      <![CDATA[Waiting to load complete page3000]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-2]]>
+    </line>
+    <line>
+      <![CDATA[Profile name is-Pallavi Pustake]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected username are matching]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-6]]>
+    </line>
+    <line>
+      <![CDATA[Country name is-India]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected country name matched]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-4]]>
+    </line>
+    <line>
+      <![CDATA[Display name is-Pallavi]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected display names are matching]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-0]]>
+    </line>
+    <line>
+      <![CDATA[Email id is-pallavipustake94@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected email id's are matching]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-3]]>
+    </line>
+    <line>
+      <![CDATA[Profile name is-Pallavi Pustake]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected full names are matchingPallavi Pustake]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-5]]>
+    </line>
+    <line>
+      <![CDATA[Gender is-Female]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected gender matched]]>
+    </line>
+    <line>
+      <![CDATA[Reading data from excel row number-1, cell number-7]]>
+    </line>
+    <line>
+      <![CDATA[State is-Maharashtra]]>
+    </line>
+    <line>
+      <![CDATA[Actual and expected state name matched]]>
+    </line>
+    <line>
+      <![CDATA[Wait time -3000]]>
+    </line>
+    <line>
+      <![CDATA[Closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-05T13:04:01 IST" name="Default suite" finished-at="2023-07-05T13:04:41 IST" duration-ms="40100">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T13:04:01 IST" name="Default test" finished-at="2023-07-05T13:04:41 IST" duration-ms="40100">
+      <class name="test.ValidatingPersonalInfo">
+        <test-method is-config="true" signature="launchZoho()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:01 IST" name="launchZoho" finished-at="2023-07-05T13:04:35 IST" duration-ms="34030" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching zoho application]]>
+            </line>
+            <line>
+              <![CDATA[Waiting to load complete page1000]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Home page Sign In ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting to load complete page1500]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-0]]>
+            </line>
+            <line>
+              <![CDATA[Entering email id]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[Wait time -2000]]>
+            </line>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-1]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on sign in]]>
+            </line>
+            <line>
+              <![CDATA[Wait time -2000]]>
+            </line>
+            <line>
+              <![CDATA[Scrolling to that element]]>
+            </line>
+            <line>
+              <![CDATA[Wait time -1000]]>
+            </line>
+            <line>
+              <![CDATA[Waiting to load complete page2000]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on user icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on my account]]>
+            </line>
+            <line>
+              <![CDATA[Waiting to load complete page3000]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchZoho -->
+        <test-method signature="validateUserName()[pri:-1, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:35 IST" name="validateUserName" finished-at="2023-07-05T13:04:36 IST" duration-ms="1341" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-2]]>
+            </line>
+            <line>
+              <![CDATA[Profile name is-Pallavi Pustake]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected username are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method signature="validateCountryName()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:36 IST" name="validateCountryName" finished-at="2023-07-05T13:04:37 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-6]]>
+            </line>
+            <line>
+              <![CDATA[Country name is-India]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected country name matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateCountryName -->
+        <test-method signature="validateDisplayName()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="validateDisplayName" finished-at="2023-07-05T13:04:37 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-4]]>
+            </line>
+            <line>
+              <![CDATA[Display name is-Pallavi]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected display names are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateDisplayName -->
+        <test-method signature="validateEmailId()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="validateEmailId" finished-at="2023-07-05T13:04:37 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-0]]>
+            </line>
+            <line>
+              <![CDATA[Email id is-pallavipustake94@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected email id's are matching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateEmailId -->
+        <test-method signature="validateFullName()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="validateFullName" finished-at="2023-07-05T13:04:37 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-3]]>
+            </line>
+            <line>
+              <![CDATA[Profile name is-Pallavi Pustake]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected full names are matchingPallavi Pustake]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFullName -->
+        <test-method signature="validateGender()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="validateGender" finished-at="2023-07-05T13:04:37 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-5]]>
+            </line>
+            <line>
+              <![CDATA[Gender is-Female]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected gender matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateGender -->
+        <test-method signature="validateStateName()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="validateStateName" finished-at="2023-07-05T13:04:37 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Reading data from excel row number-1, cell number-7]]>
+            </line>
+            <line>
+              <![CDATA[State is-Maharashtra]]>
+            </line>
+            <line>
+              <![CDATA[Actual and expected state name matched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateStateName -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.ValidatingPersonalInfo@3e8c3cb]" started-at="2023-07-05T13:04:37 IST" name="closeBrowser" finished-at="2023-07-05T13:04:41 IST" duration-ms="3490" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Wait time -3000]]>
+            </line>
+            <line>
+              <![CDATA[Closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.ValidatingPersonalInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
